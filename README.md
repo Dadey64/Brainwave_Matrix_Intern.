@@ -38,7 +38,6 @@ The Tableau dashboards cover the following analyses:
 
 For more information or to provide feedback, feel free to reach out:
 - Name: Adesanya-Isaac Daniel
-
 -[email address](dadesanya2021@gmail.com)
 - [GitHub Profile]( https://github.com/Dadey64)
 - [LinkedIn Profile]( www.linkedin.com/in/daniel-isaac-4664582a9)
